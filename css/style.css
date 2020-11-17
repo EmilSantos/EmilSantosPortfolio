@@ -340,7 +340,7 @@ body {
   font-size: 1.5rem;
   padding: 2.5rem;
   text-align: center;
-  border-radius: 3px;
+  border-radius: 5px;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
   transition: transform .3s; }
   @media only screen and (max-width: 56.25em) {
@@ -348,8 +348,8 @@ body {
       padding: 1rem;
       margin: 0 4rem; } }
   .feature-box__icon {
-    font-size: 6rem;
-    margin-bottom: 0.5rem;
+    font-size: 3.5rem;
+    margin: 0.5rem;
     background-image: linear-gradient(to right, #64495E, #4C5F9A);
     background-clip: text;
     -webkit-background-clip: text;
